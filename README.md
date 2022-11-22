@@ -1,1 +1,1 @@
-# .github
+# MineClone Redux
